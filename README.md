@@ -1,2 +1,6 @@
-# test-repo
-test-repo week 2 lecture 
+## The big logo
+### Smaller title
+
+* list 1 
+* list 2 
+* ...
